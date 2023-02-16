@@ -1,0 +1,20 @@
+C:\Users\cesar.quiroz\source\repos\AlquilerV\bin\Debug\AlquilerV.exe.config
+C:\Users\cesar.quiroz\source\repos\AlquilerV\bin\Debug\AlquilerV.exe
+C:\Users\cesar.quiroz\source\repos\AlquilerV\bin\Debug\AlquilerV.pdb
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.csproj.AssemblyReference.cache
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.Principal.resources
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.Properties.Resources.resources
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.csproj.GenerateResource.cache
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.csproj.CoreCompileInputs.cache
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.exe
+C:\Users\cesar.quiroz\source\repos\AlquilerV\obj\Debug\AlquilerV.pdb
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\bin\Debug\AlquilerV.exe.config
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\bin\Debug\AlquilerV.exe
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\bin\Debug\AlquilerV.pdb
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.csproj.AssemblyReference.cache
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.Principal.resources
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.Properties.Resources.resources
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.csproj.GenerateResource.cache
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.csproj.CoreCompileInputs.cache
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.exe
+C:\Users\cesar.quiroz\OneDrive - Logytech Mobile\Documents\AlquilerV\AlquilerV\obj\Debug\AlquilerV.pdb
